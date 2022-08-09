@@ -17,65 +17,20 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 - One fast, simple, and secure browser for all your devices
 
-### [IINA](https://github.com/lhc70000/iina)
-
-- The best video player for macOS
-
-### [Itsycal](https://www.mowglii.com/itsycal/)
-
-- Itsycal is a tiny menu bar calendar
-
-### [Spotify](https://www.spotify.com/)
-
-- Music for everyone
-
-### [Telegram](https://telegram.org/)
-
-- A new era of messaging
-
-### [TunnelBear](https://www.tunnelbear.com/download)
-
-- Simple, private, free access to the open Internet
-
 ### [Slack](https://slack.com/)
 
 - Rally your coworkers with messaging, calls, files and your favorite apps in one place
 
-### [Xcode](https://developer.apple.com/xcode/)
-
-- Xcode includes everything you need to create amazing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.
-
-### [Android Studio](https://developer.android.com/studio/index.html)
-
-- The Official IDE for Android
 
 ### [Visual Studio Code](https://code.visualstudio.com/)
 
 - Code Editing. Redefined
 
-### [Charles](https://www.charlesproxy.com/)
-
-- Web Debugging proxy application
 
 ### [Postman](https://www.getpostman.com/)
 
 - Postman is the complete toolchain for API developers
 
-### [Sourcetree](https://www.sourcetreeapp.com/)
-
-- Simplicity and power in a beautiful Git GUI
-
-### [TablePlus](https://tableplus.io/)
-
-- Modern, native, and friendly tool for relational databases
-
-### [Adobe XD CC](https://www.adobe.com/sea/products/xd.html)
-
-- UX/UI design, prototyping & collaboration tool
-
-### [Zeplin](https://zeplin.io/)
-
-- Build pixel perfect apps in peace
 
 ## Terminal
 
@@ -89,6 +44,10 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 - The missing package manager for macOS
 
+### [git](https://git-scm.com/download/mac)
+
+- Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
 ### [bundler](http://bundler.io/)
 
 - The best way to manage a Ruby application's gems
@@ -97,16 +56,6 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 - `Node` Version Manager - Simple bash script to manage multiple active node.js versions
 
-### Language Version Management
-
-- #### [rbenv](https://github.com/rbenv/rbenv)
-  - Groom your app’s `Ruby` environment.
-
-- #### [pyenv](https://github.com/pyenv/pyenv)
-  - Simple `Python` version management
-
-- #### [goenv](https://github.com/syndbg/goenv)
-  - Like rbenv and pyenv, but for `Go`.
 
 ## Config
 
